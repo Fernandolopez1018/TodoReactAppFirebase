@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoReactAppFirebase/static/css/main.1b736ba1.css",
+    "main.js": "/TodoReactAppFirebase/static/js/main.2d75cc0a.js",
+    "index.html": "/TodoReactAppFirebase/index.html",
+    "main.1b736ba1.css.map": "/TodoReactAppFirebase/static/css/main.1b736ba1.css.map",
+    "main.2d75cc0a.js.map": "/TodoReactAppFirebase/static/js/main.2d75cc0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b736ba1.css",
+    "static/js/main.2d75cc0a.js"
+  ]
+}
